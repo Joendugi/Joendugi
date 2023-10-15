@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joendugi
-- 👀 I’m interested in 
-- 🌱 I’m currently learning  C, HTML,CSS, python.
+- 👀 I’m interested in game development
+- 🌱 proficient in  C, C++, HTML,CSS, python,js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

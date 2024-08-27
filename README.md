@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Joendugi
 - 👀 I’m interested in game development
 - 🌱 proficient in  C, C++, HTML,CSS, python,js.
+
+- proficient in react and next.js frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- joeeroctib@gmail.com
 
 <!---
 Joendugi/Joendugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

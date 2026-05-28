@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joendugi
 - 👀 I’m interested in game development
-- 🌱 proficient in  C, C++, HTML,CSS, python,js.
+- 🌱 proficient in  C++, HTML,CSS, python,js ,rust.
 
 - proficient in react and next.js frameworks
 - 💞️ I’m looking to collaborate on ...
